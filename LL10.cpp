@@ -37,27 +37,31 @@ void print(node*head){
     cout<<endl;
 }
 
-node*insertk(node*head,int k){
-    if(head==NULL) return head;
+node*insertk(node*head,int el,int k){
+    if(head==NULL) 
+    {
+        if(k==1) return new node(el);
+    }
    
     if(k==1){
 
-         node*temp=head;
-        head=head->next;
-        free(temp);
-        return head;
+         node*temp=new node(el,head);
+        
+        return temp;
     }
     int c=0;
     node*temp=head;
-    node*prev=NULL;
+    
     while(temp!=NULL){
         c++;
-        if(c==k){
-        prev->next=prev->next->next;
-        free(temp);
+        if(c==k-1){
+            node*n=new node(el);
+        n->next=temp->next;
+        temp->next=n;
+        
         break;
     }
-    prev=temp;
+    
     temp=temp->next;
     
     }
@@ -68,7 +72,7 @@ node*insertk(node*head,int k){
     int main(){ 
     vector<int> arr ={2,3,4,7};
     node*head=convertarr2ll(arr);
-    head=removek(head,3);
+    head=insertk(head,3,4);
     print(head);
    
     
