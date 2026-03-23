@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yogeshrai24/DSA/tree/master/0001-two-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yogeshrai24/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Yogeshrai24/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yogeshrai24/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yogeshrai24/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yogeshrai24/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Yogeshrai24/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yogeshrai24/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yogeshrai24/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yogeshrai24/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yogeshrai24/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
