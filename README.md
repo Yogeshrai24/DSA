@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yogeshrai24/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Yogeshrai24/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yogeshrai24/DSA/tree/master/0016-3sum-closest) |
+| [0874-walking-robot-simulation](https://github.com/Yogeshrai24/DSA/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Yogeshrai24/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Yogeshrai24/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yogeshrai24/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yogeshrai24/DSA/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/Yogeshrai24/DSA/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yogeshrai24/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Yogeshrai24/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Binary Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Yogeshrai24/DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Yogeshrai24/DSA/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Yogeshrai24/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Yogeshrai24/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yogeshrai24/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
