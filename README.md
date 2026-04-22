@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yogeshrai24/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yogeshrai24/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yogeshrai24/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yogeshrai24/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Yogeshrai24/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Yogeshrai24/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Yogeshrai24/DSA/tree/master/2751-robot-collisions) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yogeshrai24/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yogeshrai24/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Yogeshrai24/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yogeshrai24/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Yogeshrai24/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yogeshrai24/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yogeshrai24/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yogeshrai24/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yogeshrai24/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
