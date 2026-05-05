@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yogeshrai24/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yogeshrai24/DSA/tree/master/0016-3sum-closest) |
+| [0061-rotate-list](https://github.com/Yogeshrai24/DSA/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Yogeshrai24/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yogeshrai24/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Yogeshrai24/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yogeshrai24/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Yogeshrai24/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
